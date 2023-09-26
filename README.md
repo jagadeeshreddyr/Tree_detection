@@ -22,9 +22,6 @@ This project presents an advanced object detection system designed for tree iden
 ![Tree Detection Using Yolov8](output/yolo.png)
 
 
-[![Watch the video](output/yolov8_video.mp4)
-
-
 <video width="320" height="240" controls>
   <source src="output/yolov8_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
