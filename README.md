@@ -1,7 +1,5 @@
 # Advanced Tree Identification with Object Detection
 
-![Tree Detection](tree_detection.jpg)
-
 ## Overview
 
 This project presents an advanced object detection system designed for tree identification. We leverage pretrained Convolutional Neural Network (CNN) models, including Dectectron2 and YOLOv8, to accurately detect and identify trees in images. This process involves retraining these models using customized training datasets that include bounding boxes for precise tree identification.
@@ -25,6 +23,12 @@ This project presents an advanced object detection system designed for tree iden
 
 
 [![Watch the video](output/yolov8_video.mp4)
+
+
+<video width="320" height="240" controls>
+  <source src="output/yolov8_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Our object detection system for tree identification delivers exceptional accuracy and precise localization. This makes it a valuable asset for environmental monitoring, forestry management, and biodiversity research.
 
